@@ -1,2 +1,1 @@
-Welcome to the version of control
 welcome to the version control
